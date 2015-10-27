@@ -2,6 +2,8 @@
 using System.Collections;
 public class Basket : MonoBehaviour
 {
+    public GUIText scoreGT;
+
     void Update()
     {
         // Get the current screen position of the mouse from Input
